@@ -4,7 +4,7 @@ Public repo for a bunch of high quality gemstone mining routes for Hypixel Skybl
 
 ## Requirements
 
-Chat Triggers
+Chat Triggers (https://github.com/ChatTriggers/ChatTriggers/releases/tag/2.2.0)
 
 Chat Triggers module "Cole Weight" (/ct import coleweight)
 
