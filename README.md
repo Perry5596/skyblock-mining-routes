@@ -14,3 +14,5 @@ Chat Triggers module "Cole Weight" (/ct import coleweight)
 2. Type the command "/cw ordered load"
 
 The waypoint's of the mining route will now be ready for you to set up.
+
+To unload the waypoints when you are not mining, you can run the following command: "/cw ordered unload"
